@@ -77,10 +77,6 @@ uv run src/control_law_pi/control_law_pi.py -g k4.graphml -i 1000 -k 0.1 --gamma
 └── uv.lock
 ```
 
-## Reference
-
-S. Wen, G. Wang, et al., *Clock Synchronization via Clock Rigidity* (2021). arXiv:2106.02199
-
 ## License
 
 Released under the MIT License. See [LICENSE](LICENSE).

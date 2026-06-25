@@ -2,7 +2,7 @@
 
 Python simulations for the TFM *"Sincronización temporal en redes UWB distribuidas mediante rigidez de relojes"* (University of Granada). The code covers two distributed clock-synchronization approaches over network topologies:
 
-- **Clock rigidity** — gradient-descent estimation of per-node clock parameters (skew $\alpha$, offset $\beta$), based on the framework of Wen et al. (2021).
+- **Clock rigidity** — gradient-descent estimation of per-node clock parameters (skew $\alpha$, offset $\beta$).
 - **PI control law** — a proportional–integral consensus algorithm for distributed clock synchronization.
 
 ## Requirements
